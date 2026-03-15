@@ -39,7 +39,7 @@ export interface GithubProjectItem {
 }
 
 export interface ContactLink {
-  label: string;
+  label: LocalizedText;
   value: string;
   href: string;
 }

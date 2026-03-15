@@ -1,0 +1,17 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#0B121A" />
+  <circle cx="400" cy="300" r="140" fill="url(#paint0_linear_1_2)" fill-opacity="0.85" />
+  <path d="M170 685C199 537 283 463 400 463C517 463 601 537 630 685" fill="#121E2A" stroke="#45D0A7" stroke-opacity="0.55" stroke-width="4" />
+  <rect x="54" y="54" width="692" height="692" rx="34" stroke="url(#paint1_linear_1_2)" stroke-opacity="0.45" stroke-width="6" />
+  <text x="400" y="742" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#9CB2C8">Replace with real profile photo</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="260" y1="160" x2="547" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66A8FF" />
+      <stop offset="1" stop-color="#45D0A7" />
+    </linearGradient>
+    <linearGradient id="paint1_linear_1_2" x1="54" y1="54" x2="746" y2="746" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66A8FF" />
+      <stop offset="1" stop-color="#45D0A7" />
+    </linearGradient>
+  </defs>
+</svg>
