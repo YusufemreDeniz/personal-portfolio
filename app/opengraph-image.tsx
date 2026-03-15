@@ -18,13 +18,16 @@ export default function OpenGraphImage() {
           padding: "64px",
           flexDirection: "column",
           justifyContent: "center",
-          background:
-            "radial-gradient(circle at 15% 10%, rgba(102,168,255,0.30), transparent 38%), radial-gradient(circle at 80% 18%, rgba(69,208,167,0.24), transparent 42%), #070B10",
+          backgroundColor: "#070B10",
           color: "white"
         }}
       >
-        <div style={{ fontSize: 62, fontWeight: 700, letterSpacing: "-0.02em" }}>Yusuf Emre Deniz</div>
-        <div style={{ marginTop: 16, fontSize: 34, color: "#7DE6C4" }}>Startup-Minded Software Engineer</div>
+        <div style={{ fontSize: 62, fontWeight: 700, letterSpacing: "-0.02em" }}>
+          Yusuf Emre Deniz
+        </div>
+        <div style={{ marginTop: 16, fontSize: 34, color: "#7DE6C4" }}>
+          Startup-Minded Software Engineer
+        </div>
         <div style={{ marginTop: 22, fontSize: 24, color: "#C6D3E2" }}>
           Backend, CRM and scalable software products
         </div>
